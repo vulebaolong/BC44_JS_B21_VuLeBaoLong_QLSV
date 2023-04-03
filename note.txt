@@ -1,0 +1,12 @@
+array chứa object sv
+
+findIndex => dùng cho object
+
+splice => xoá 1 phần tử trong array
+
+forEach
+
+
+
+
++ Thêm sinh viên
